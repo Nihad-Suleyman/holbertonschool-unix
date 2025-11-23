@@ -1,2 +1,2 @@
-"yes"
+"#!/bin/bash"
 chmod -x hello
